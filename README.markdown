@@ -1,2 +1,2 @@
 #Twitter widget
-[DEMO](http://stillmtt/demo/twitter_widget)
+[DEMO](http://stillmtt.com/demo/twitter_widget)
